@@ -25,6 +25,9 @@ class Solution:
         """
         :type x: int
         :rtype: int
+        思路：
+            字符串反转
+            int函数特性
         """
         min_range = pow(2, 31) * (-1)
         max_range = pow(2, 31) - 1

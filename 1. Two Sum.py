@@ -19,6 +19,8 @@ class Solution:
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+        思路：
+            相减
         """
         for x in range(len(nums)):
             sub_nums = nums[x+1:]
@@ -32,6 +34,9 @@ class Solution:
         :type nums: List[int]
         :type target: int
         :rtype: List[int]
+        思路：
+            相减
+            字典保存
         """
         dict_buff = {}
         for k, value in enumerate(nums):
