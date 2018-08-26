@@ -30,7 +30,7 @@ class Solution:
         
         # 方法2
         len_ = len(needle)
-        if not len_ or haystack == needle:
+        if not len_:
             return 0
         else:
             for x in range(len_, len(haystack) + 1):

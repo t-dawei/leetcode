@@ -4,6 +4,7 @@
 # 	print(x)
 # 	break
 
-for x in range(3, 3):
-	print(222)
-	pass
+string = ''
+string2 = ''
+print(id(string))
+print(id(string2))
