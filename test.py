@@ -1,10 +1,4 @@
-
-# s = '1234567890'
-# for x in s:
-# 	print(x)
-# 	break
-
-string = ''
-string2 = ''
-print(id(string))
-print(id(string2))
+import itertools
+string = '1122345678543'
+for x, y in itertools.groupby(string):
+	print(x,y)
