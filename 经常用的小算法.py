@@ -155,15 +155,49 @@ def post_trans_2(root):
 # 树 --- 层次遍历（广度优先）
 # ========================
 def level_trans(root):
-	list_stack, res = [root], []
+	list_queue, res = [root], []
 	while list_stack:
-		cur = list_stack.pop()
+		cur = list_queue.pop()
 		res.append(cur)
 		if cur.left:
-			list_stack.append(cur.left)
+			list_queue.append(cur.left)
 		if cur.right:
-			list_stack.append(cur.right)
+			list_queue.append(cur.right)
 	return res
+
+# =========================
+# 树 转化 图链式表示
+# =========================
+conn = collections.defaultdict(list)
+def connect(parent, child):
+    if parent and child:
+        conn[parent.val].append(child.val)
+        conn[child.val].append(parent.val)
+    if child.left: connect(child, child.left)
+    if child.right: connect(child, child.right)
+
+# ============================
+# 图 深度遍历 图的链式表示 递归实现（通过栈实现）
+# ============================
+list_visited = []
+def dfs(node):
+	list_visited.append(node)
+	for n in neighbor[node]
+		if n not in list_visited:
+			dfs(n)
+# ==============================
+# 图 广度遍历 图的链式表示 非递归实现（通过队列实现）
+# ==============================
+def bfs(node):
+	list_queue = [node]
+	list_visited = []
+	while list_queue:
+		node = list_queue.pop()
+		list_visited.append(node)
+		for n in neighbor[node]:
+			if n not in list_visited:
+				list_queue.append()
+	return list_visited
 
 if __name__ == '__main__':
 	print(power2(4))
