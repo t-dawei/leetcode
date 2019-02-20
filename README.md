@@ -3,7 +3,7 @@
 
 * 导航目录
 >| 题号 | 题目 | 方法 | 难度 |
->|:--:|:-----:|:---:|
+>|:--:|:-----:|:---:|:---:|
 >| 053 | [最大子序和](https://github.com/t-dawei/leetcode/blob/master/code/53.%20最大子序和.py) | 动态规划 | 简单 |
 >| 070 | [爬楼梯](https://github.com/t-dawei/leetcode/blob/master/code/70.%20爬楼梯.py) | 动态规划 | 简单 |
 >| 121 | [买卖股票的最佳时机](https://github.com/t-dawei/leetcode/blob/master/code/121.%20买卖股票的最佳时机.py) | 动态规划 | 简单 |
