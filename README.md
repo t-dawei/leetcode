@@ -1,5 +1,5 @@
 # Leetcode
-## <center>**<<导航目录>>**</center>
+<center>**<<导航目录>>**</center>
 <br>
 
 * 动态规划 | 递归 | 分治 | 二分查找 | HashMap
