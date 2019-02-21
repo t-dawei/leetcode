@@ -14,6 +14,7 @@ return [0, 1].
 
 # answer 1
 class Solution:
+    # 常规数组操作
     def twoSum(self, nums, target):
         """
         :type nums: List[int]
@@ -28,7 +29,8 @@ class Solution:
                 index = sub_nums.index(target-nums[x])
                 print(x, index + x + 1)
                 return [x, index + x + 1]
-		
+	
+    # HashMap
     def twoSum2(self, nums, target):
         """
         :type nums: List[int]

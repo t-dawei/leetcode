@@ -1,7 +1,7 @@
 # << Leetcode >>
 <br>
 
-* 导航目录
+* 动态规划
 >| 题号 | 题目 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|
 >| 053 | [最大子序和 - Maximum Subarray](https://github.com/t-dawei/leetcode/blob/master/code/53.%20最大子序和.py) | 动态规划 | 简单 |
@@ -13,14 +13,18 @@
 
 ----
 
+* 递归 | 分治
 >| 题号 | 题目 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|
->| 973 | [最接近原点的K个点 - K Closest Points to Origin](https://github.com/t-dawei/leetcode/blob/master/code/973.%20最接近原点的%20K%20个点.py) | 递归分治 | 简单 |
+>| 973 | [最接近原点的K个点 - K Closest Points to Origin](https://github.com/t-dawei/leetcode/blob/master/code/973.%20最接近原点的%20K%20个点.py) | 递归 + 分治 | 简单 |
 >|  | [](https://github.com/t-dawei/leetcode/blob/master/code/) |  |  |
 
 ----
 
+* HashMap | 二分查找
 >| 题号 | 题目 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|
 >| 981 | [基于时间的键值存储 - Time Based Key-Value Store](https://github.com/t-dawei/leetcode/blob/master/code/981.%20基于时间的键值存储.py) | HashMap + 二分查找 | 中等 |
+>| 001 | [两数之和 - Two Sum](https://github.com/t-dawei/leetcode/blob/master/code/1.%20两数之和.py) | HashMap | 简单 |
 >|  | [](https://github.com/t-dawei/leetcode/blob/master/code/) |  |  |
+
