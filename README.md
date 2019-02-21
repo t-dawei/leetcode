@@ -11,10 +11,14 @@
 >| 983 | [最低票价 - Minimum Cost For Tickets](https://github.com/t-dawei/leetcode/blob/master/code/983.%20最低票价.py) | 动态规划 | 中等 |
 >|  | [](https://github.com/t-dawei/leetcode/blob/master/code/) |  |  |
 
+----
+
 >| 题号 | 题目 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|
 >| 973 | [最接近原点的K个点 - K Closest Points to Origin](https://github.com/t-dawei/leetcode/blob/master/code/973.%20最接近原点的%20K%20个点.py) | 递归分治 | 简单 |
 >|  | [](https://github.com/t-dawei/leetcode/blob/master/code/) |  |  |
+
+----
 
 >| 题号 | 题目 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|
