@@ -45,7 +45,7 @@ class Solution:
 
 # 方法2 时间复杂度：O(n)
 class Solution:
-    # @return an integer
+    # HashMap
     def lengthOfLongestSubstring(self, s):
         start = maxLength = 0
         usedChar = {}
