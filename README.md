@@ -1,12 +1,12 @@
-# << Leetcode >>
-## 导航目录
+# Leetcode
+## <导航目录>
 <br>
 
 * 动态规划 | 递归 | 分治 | 二分查找 | HashMap
 * 列表 | 链表 | 字符串
 >| 题号 | 题目 | 题型 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|:---:|
->| 053 | [最大子序和 - Maximum Subarray](https://github.com/t-dawei/leetcode/blob/master/code/53.%20最大子序和.py) |  | 动态规划 | 简单 |
+>| 053 | [最大子序和 <br> Maximum Subarray](https://github.com/t-dawei/leetcode/blob/master/code/53.%20最大子序和.py) |  | 动态规划 | 简单 |
 >| 070 | [爬楼梯-Climbing Stairs](https://github.com/t-dawei/leetcode/blob/master/code/70.%20爬楼梯.py) |  | 动态规划 | 简单 |
 >| 121 | [买卖股票的最佳时机 - Best Time to Buy and Sell Stock](https://github.com/t-dawei/leetcode/blob/master/code/121.%20买卖股票的最佳时机.py) | 动态规划 | 简单 |
 >| 198 | [打家劫舍 - House Robber](https://github.com/t-dawei/leetcode/blob/master/code/198.%20打家劫舍.py) |  | 动态规划 | 简单 |
