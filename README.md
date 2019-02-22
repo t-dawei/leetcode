@@ -29,6 +29,12 @@
 >| 007 | [整数反转 <br> Reverse Integer](https://github.com/t-dawei/leetcode/blob/master/code/7.%20整数反转.py)  |  |  | 简单 |
 >| 008 | [字符串转换整数 (atoi) <br> String to Integer (atoi)](https://github.com/t-dawei/leetcode/blob/master/code/8.%20字符串转换整数.py)  | 字符串 |  | 中等 |
 >| 009 | [回文数 <br> Palindrome Number](https://github.com/t-dawei/leetcode/blob/master/code/9.%20回文数.py)  |  |  | 简单 |
+>| 019 | [删除链表的倒数第N个节点 <br> Remove Nth Node From End of List](https://github.com/t-dawei/leetcode/blob/master/code/19.%20删除链表的倒数第N个节点.py)  | 链表 |  | 中等 |
+>| 036 | [有效的数独 <br> Valid Sudoku](https://github.com/t-dawei/leetcode/blob/master/code/36.%20有效的数独.py)  | 列表 |  | 中等 |
+>| 048 | [旋转图像 <br> Rotate Image](https://github.com/t-dawei/leetcode/blob/master/code/48.%20旋转图像.py)  | 列表 |  | 中等 |
+>| 066 | [加一 <br> Plus One](https://github.com/t-dawei/leetcode/blob/master/code/66.%20加一.py)  | 列表 |  | 简单 |
+>|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
+>|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
