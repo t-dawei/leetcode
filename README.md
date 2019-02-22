@@ -21,7 +21,7 @@
 >| 021 | [合并两个有序链表 <br> Merge Two Sorted Lists](https://github.com/t-dawei/leetcode/blob/master/code/20.%20合并两个有序链表.py)  | 链表 | 归并 | 简单 |
 >| 026 | [删除排序数组中的重复项 <br> Remove Duplicates from Sorted Array](https://github.com/t-dawei/leetcode/blob/master/code/26.%20删除排序数组中的重复项.py)  | 数组 |  | 简单 |
 >| 027 | [移除元素 <br> Remove Element](https://github.com/t-dawei/leetcode/blob/master/code/27.%20移除元素.py) | 数组 |  | 简单 |
->| 028 | [实现strStr() <br> Implement strStr()](https://github.com/t-dawei/leetcode/blob/master/code/28.%20Implement%20strStr().py) | 字符串 |  | 简单 |
+>| 028 | [实现strStr() <br> Implement strStr()](https://github.com/t-dawei/leetcode/blob/master/code/28.%20实现strStr().py) | 字符串 |  | 简单 |
 >| 035 | [搜索插入位置 <br> Search Insert Position](https://github.com/t-dawei/leetcode/blob/master/code/35.%20搜索插入位置.py)  | 数组 | 二分查找 | 简单 |
 >| 038 | [报数 <br> Count and Say](https://github.com/t-dawei/leetcode/blob/master/code/38.%20报数.py)  |  |  | 简单 |
 >| 005 | [最长回文子串 <br> Longest Palindromic Substring](https://github.com/t-dawei/leetcode/blob/master/code/5.%20最长回文子串.py) | 字符串 |  | 中等 |
