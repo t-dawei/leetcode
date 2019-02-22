@@ -1,8 +1,11 @@
 # Leetcode <<导航目录>>
 <br>
 
-* 动态规划 | 递归 | 分治 | 二分查找 | HashMap | 栈 | 归并
-* 列表 | 链表 | 字符串
+* 算法策略：动态规划 | 递归 | 分治 | 归并 | 贪心
+* 搜索策略：二分查找 | 深度遍历 | 广度遍历 | （先|中|后)序遍历 
+* 数据结构：HashMap | 栈 | 
+* 题型格式：列表 | 链表 | 字符串
+
 >| 题号 | 题目 | 题型 | 方法 | 难度 |
 >|:--:|:-----:|:---:|:---:|:---:|
 >| 053 | [最大子序和 <br> Maximum Subarray](https://github.com/t-dawei/leetcode/blob/master/code/53.%20最大子序和.py) | 列表 | 动态规划 | 简单 |
@@ -39,6 +42,23 @@
 >| 141 | [环形链表 <br> Linked List Cycle](https://github.com/t-dawei/leetcode/blob/master/code/141.%20环形链表.py)  | 链表 |  | 简单 |
 >| 189 | [旋转数组 <br> Rotate Array](https://github.com/t-dawei/leetcode/blob/master/code/189.%20旋转数组.py)  | 数组 |  | 简单 |
 >| 206 | [反转链表 <br> Reverse Linked List](https://github.com/t-dawei/leetcode/blob/master/code/206,%20反转链表.py)  | 链表 |  | 简单 |
+>| 217 | [存在重复元素 <br> Contains Duplicate](https://github.com/t-dawei/leetcode/blob/master/code/217.%20存在重复元素.py)  | 数组 | HashMap | 简单 |
+>| 234 | [回文链表 <br> Palindrome Linked List](https://github.com/t-dawei/leetcode/blob/master/code/234.%20回文链表.py)  | 链表 |  | 简单 |
+>| 237 | [删除链表中的节点 <br> Delete Node in a Linked List](https://github.com/t-dawei/leetcode/blob/master/code/237.%20删除链表中的节点.py)  | 链表 |  | 简单 |
+>| 242 | [有效的字母异位词 <br> Valid Anagram](https://github.com/t-dawei/leetcode/blob/master/code/242.%20有效的字母异位词.py)  | 字符串 | HashMap | 简单 |
+>| 283 | [移动零 <br> Move Zeroes](https://github.com/t-dawei/leetcode/blob/master/code/283.%20移动零.py)  | 数组 |  | 简单 |
+>| 344 | [反转字符串 <br> Reverse String](https://github.com/t-dawei/leetcode/blob/master/code/344.%20反转字符串.py)  | 字符串 |  | 简单 |
+
+>| 350 | [两个数组的交集 II <br> Intersection of Two Arrays II](https://github.com/t-dawei/leetcode/blob/master/code/350.%20两个数组的交集.py)  | 数组 | HashMap | 简单 |
+>| 387 | [字符串中的第一个唯一字符 <br> First Unique Character in a String](https://github.com/t-dawei/leetcode/blob/master/code/387.%20字符串中的第一个唯一字符.py)  | 字符串 |  | 简单 |
+
+>| 559 | [N叉树的最大深度 <br> Maximum Depth of N-ary Tree](https://github.com/t-dawei/leetcode/blob/master/code/559.%20N叉树的最大深度.py)  | 链表(树) | 深度遍历 | 简单 |
+>| 869 | [重新排序得到2的幂 <br> Reordered Power of 2](https://github.com/t-dawei/leetcode/blob/master/code/869.%20重新排序得到%202%20的幂.py)  |  |  | 中等 |
+
+>| 870 | [优势洗牌 <br> Advantage Shuffle](https://github.com/t-dawei/leetcode/blob/master/code/870.%20优势洗牌.py)  | 数组 | HashMap | 中等 |
+>| 872 | [叶子相似的树 <br> Leaf-Similar Trees](https://github.com/t-dawei/leetcode/blob/master/code/872.%20叶子相似的树.py)  | 链表(树) |  | 简单 |
+>| 875 | [爱吃香蕉的珂珂 <br> Koko Eating Bananas](https://github.com/t-dawei/leetcode/blob/master/code/875.%20爱吃香蕉的珂珂.py)  | 数组 | 二分查找 | 中等 |
+>| 897 | [递增顺序查找树 <br> Increasing Order Search Tree](https://github.com/t-dawei/leetcode/blob/master/code/897.%20递增顺序查找树.py)  | 链表(树) | 中序遍历 | 简单 |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
