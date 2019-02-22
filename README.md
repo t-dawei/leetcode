@@ -33,7 +33,12 @@
 >| 036 | [有效的数独 <br> Valid Sudoku](https://github.com/t-dawei/leetcode/blob/master/code/36.%20有效的数独.py)  | 列表 |  | 中等 |
 >| 048 | [旋转图像 <br> Rotate Image](https://github.com/t-dawei/leetcode/blob/master/code/48.%20旋转图像.py)  | 列表 |  | 中等 |
 >| 066 | [加一 <br> Plus One](https://github.com/t-dawei/leetcode/blob/master/code/66.%20加一.py)  | 列表 |  | 简单 |
->|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
+>| 122 | [买卖股票的最佳时机 II <br> Best Time to Buy and Sell Stock II](https://github.com/t-dawei/leetcode/blob/master/code/122.%20买卖股票的最佳时机%20II.py)  | 数组 |  | 简单 |
+>| 125 | [验证回文串 <br> Valid Palindrome](https://github.com/t-dawei/leetcode/blob/master/code/125.%20验证回文串.py)  | 字符串 |  | 简单 |
+>| 136 | [只出现一次的数字 <br> Single Number](https://github.com/t-dawei/leetcode/blob/master/code/136%20只出现一次的数字.py)  | 列表 |  | 简单 | 
+>| 141 | [环形链表 <br> Linked List Cycle](https://github.com/t-dawei/leetcode/blob/master/code/141.%20环形链表.py)  | 链表 |  | 简单 |
+>| 189 | [旋转数组 <br> Rotate Array](https://github.com/t-dawei/leetcode/blob/master/code/189.%20旋转数组.py)  | 数组 |  | 简单 |
+>| 206 | [反转链表 <br> Reverse Linked List](https://github.com/t-dawei/leetcode/blob/master/code/206,%20反转链表.py)  | 链表 |  | 简单 |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
 >|  | [ <br> ](https://github.com/t-dawei/leetcode/blob/master/code/.py)  |  |  |  |
