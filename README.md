@@ -48,13 +48,10 @@
 >| 242 | [有效的字母异位词 <br> Valid Anagram](https://github.com/t-dawei/leetcode/blob/master/code/242.%20有效的字母异位词.py)  | 字符串 | HashMap | 简单 |
 >| 283 | [移动零 <br> Move Zeroes](https://github.com/t-dawei/leetcode/blob/master/code/283.%20移动零.py)  | 数组 |  | 简单 |
 >| 344 | [反转字符串 <br> Reverse String](https://github.com/t-dawei/leetcode/blob/master/code/344.%20反转字符串.py)  | 字符串 |  | 简单 |
-
 >| 350 | [两个数组的交集 II <br> Intersection of Two Arrays II](https://github.com/t-dawei/leetcode/blob/master/code/350.%20两个数组的交集.py)  | 数组 | HashMap | 简单 |
 >| 387 | [字符串中的第一个唯一字符 <br> First Unique Character in a String](https://github.com/t-dawei/leetcode/blob/master/code/387.%20字符串中的第一个唯一字符.py)  | 字符串 |  | 简单 |
-
 >| 559 | [N叉树的最大深度 <br> Maximum Depth of N-ary Tree](https://github.com/t-dawei/leetcode/blob/master/code/559.%20N叉树的最大深度.py)  | 链表(树) | 深度遍历 | 简单 |
 >| 869 | [重新排序得到2的幂 <br> Reordered Power of 2](https://github.com/t-dawei/leetcode/blob/master/code/869.%20重新排序得到%202%20的幂.py)  |  |  | 中等 |
-
 >| 870 | [优势洗牌 <br> Advantage Shuffle](https://github.com/t-dawei/leetcode/blob/master/code/870.%20优势洗牌.py)  | 数组 | HashMap | 中等 |
 >| 872 | [叶子相似的树 <br> Leaf-Similar Trees](https://github.com/t-dawei/leetcode/blob/master/code/872.%20叶子相似的树.py)  | 链表(树) |  | 简单 |
 >| 875 | [爱吃香蕉的珂珂 <br> Koko Eating Bananas](https://github.com/t-dawei/leetcode/blob/master/code/875.%20爱吃香蕉的珂珂.py)  | 数组 | 二分查找 | 中等 |
