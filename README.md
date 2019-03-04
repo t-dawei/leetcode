@@ -13,7 +13,6 @@
 >| 121 | [买卖股票的最佳时机 <br> Best Time to Buy and Sell Stock](https://github.com/t-dawei/leetcode/blob/master/code/121.%20买卖股票的最佳时机.py) | 列表 | 动态规划 | 简单 |
 >| 198 | [打家劫舍 <br> House Robber](https://github.com/t-dawei/leetcode/blob/master/code/198.%20打家劫舍.py) | 列表 | 动态规划 | 简单 |
 >| 983 | [最低票价 <br> Minimum Cost For Tickets](https://github.com/t-dawei/leetcode/blob/master/code/983.%20最低票价.py) | 列表 | 动态规划 | 中等 |
-
 >| 002 | [两数相加 <br> Add Two Numbers](https://github.com/t-dawei/leetcode/blob/master/code/2.%20两数相加.py) | 链表 |  | 中等 |
 >| 141 | [环形链表 <br> Linked List Cycle](https://github.com/t-dawei/leetcode/blob/master/code/141.%20环形链表.py)  | 链表 |  | 简单 |
 >| 014 | [最长公共前缀 <br> Longest Common Prefix](https://github.com/t-dawei/leetcode/blob/master/code/14.%20最长公共前缀.py)  | 链表 |  | 简单 |
@@ -25,7 +24,6 @@
 >| 559 | [N叉树的最大深度 <br> Maximum Depth of N-ary Tree](https://github.com/t-dawei/leetcode/blob/master/code/559.%20N叉树的最大深度.py)  | 链表(树) | 深度遍历 | 简单 |
 >| 872 | [叶子相似的树 <br> Leaf-Similar Trees](https://github.com/t-dawei/leetcode/blob/master/code/872.%20叶子相似的树.py)  | 链表(树) |  | 简单 |
 >| 897 | [递增顺序查找树 <br> Increasing Order Search Tree](https://github.com/t-dawei/leetcode/blob/master/code/897.%20递增顺序查找树.py)  | 链表(树) | 中序遍历 | 简单 |
-
 >| 973 | [最接近原点的K个点 <br> K Closest Points to Origin](https://github.com/t-dawei/leetcode/blob/master/code/973.%20最接近原点的%20K%20个点.py) | 列表 | 递归 + 分治 | 简单 |
 >| 981 | [基于时间的键值存储 <br> Time Based Key-Value Store](https://github.com/t-dawei/leetcode/blob/master/code/981.%20基于时间的键值存储.py) | 列表 | HashMap + 二分查找 | 中等 |
 >| 001 | [两数之和 <br> Two Sum](https://github.com/t-dawei/leetcode/blob/master/code/1.%20两数之和.py) | 列表 | HashMap | 简单 |

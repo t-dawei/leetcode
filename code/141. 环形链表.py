@@ -45,3 +45,30 @@ class Solution(object):
                 cur.val = float('inf')
                 cur = cur.next
         return False
+
+
+# Definition for singly-linked list.
+# class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+# 快慢双指针
+class Solution(object):
+    def hasCycle(self, head):
+        """
+        :type head: ListNode
+        :rtype: bool
+        """
+        if head is None:
+            return False
+        slow = head
+        if slow.next is None:
+            return False
+        quick = slow.next
+        while slow is not quick:
+            slow = slow.next if slow is not None else slow
+            quick = quick.next if quick is not None else quick
+            quick = quick.next if quick is not None else quick
+        
+        return slow is not None
