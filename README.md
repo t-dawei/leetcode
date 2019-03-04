@@ -16,7 +16,7 @@
 >| 002 | [两数相加 <br> Add Two Numbers](https://github.com/t-dawei/leetcode/blob/master/code/2.%20两数相加.py) | 链表 |  | 中等 |
 >| 141 | [环形链表 <br> Linked List Cycle](https://github.com/t-dawei/leetcode/blob/master/code/141.%20环形链表.py)  | 链表 |  | 简单 |
 >| 014 | [最长公共前缀 <br> Longest Common Prefix](https://github.com/t-dawei/leetcode/blob/master/code/14.%20最长公共前缀.py)  | 链表 |  | 简单 |
->| 021 | [合并两个有序链表 <br> Merge Two Sorted Lists](https://github.com/t-dawei/leetcode/blob/master/code/20.%20合并两个有序链表.py)  | 链表 | 归并 | 简单 |
+>| 021 | [合并两个有序链表 <br> Merge Two Sorted Lists](ttps://github.com/t-dawei/leetcode/blob/master/code/21.%20合并两个有序链表.py)  | 链表 | 归并 | 简单 |
 >| 019 | [删除链表的倒数第N个节点 <br> Remove Nth Node From End of List](https://github.com/t-dawei/leetcode/blob/master/code/19.%20删除链表的倒数第N个节点.py)  | 链表 |  | 中等 |
 >| 206 | [反转链表 <br> Reverse Linked List](https://github.com/t-dawei/leetcode/blob/master/code/206,%20反转链表.py)  | 链表 |  | 简单 |
 >| 234 | [回文链表 <br> Palindrome Linked List](https://github.com/t-dawei/leetcode/blob/master/code/234.%20回文链表.py)  | 链表 |  | 简单 |
